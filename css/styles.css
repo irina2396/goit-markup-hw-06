@@ -1157,6 +1157,9 @@ button {
     .page-footer-logo {
         text-align: left;
     }
+    .footer-text {
+        width: 264px;
+    }
     .social-text {
         text-align: left;
     }
@@ -1189,9 +1192,6 @@ button {
     }
     .page-footer {
         padding: 100px 0 100px;
-    }
-    .footer-text {
-        max-width: 264px;
     }
     .footer-social-media {
         margin-right: 80px;
